@@ -1,6 +1,7 @@
 package turmach.model;
 
 import java.util.List;
+//@author RashiBharuka
 
 public interface TuringMachine {
 
