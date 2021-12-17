@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.ArrayList;
 import turmach.model.TuringMachine;
 
-
+//@author RashiBharuka
 public class TuringMachineImpl implements TuringMachine{
 	
 	private ArrayList<Character> symbolList;
