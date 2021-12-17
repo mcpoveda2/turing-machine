@@ -1,4 +1,5 @@
 package turmach.model;
+//@author RashiBharuka
 
 /** A Configuration consist of
  * 
