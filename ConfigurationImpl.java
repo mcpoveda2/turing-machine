@@ -2,7 +2,7 @@ package turmach.model;
 import java.util.HashMap;
 import java.util.List;
 
-
+//@author RashiBharuka
 
 public class ConfigurationImpl implements Configuration{
 
